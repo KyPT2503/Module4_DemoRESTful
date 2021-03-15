@@ -1,0 +1,18 @@
+user_manager/service/user/UserService.java
+ user_manager.service.user.UserService
+user_manager/config/AppConfiguration.java
+ user_manager.config.AppConfiguration
+user_manager/config/AppInit.java
+ user_manager.config.AppInit
+user_manager/service/user/IUserService.java
+ user_manager.service.user.IUserService
+user_manager/service/IGeneralService.java
+ user_manager.service.IGeneralService
+user_manager/model/User.java
+ user_manager.model.User
+user_manager/controller/ExceptionController.java
+ user_manager.controller.ExceptionController
+user_manager/repository/UserRepository.java
+ user_manager.repository.UserRepository
+user_manager/controller/UserController.java
+ user_manager.controller.UserController
